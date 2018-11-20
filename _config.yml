@@ -1,4 +1,4 @@
 name: wyn
 markdown: kramdown
 theme: jekyll-theme-modernist
-permalink: /blog/:year/:month/:day/:title
+#permalink: /blog/:year/:month/:day/:title
